@@ -1,0 +1,15 @@
+C:\Users\Pearl-Laptop\Desktop\Repos\IterationStatmentsExercise\IterationStatmentsExercise\obj\Debug\net6.0\IterationStatmentsExercise.csproj.AssemblyReference.cache
+C:\Users\Pearl-Laptop\Desktop\Repos\IterationStatmentsExercise\IterationStatmentsExercise\obj\Debug\net6.0\IterationStatmentsExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pearl-Laptop\Desktop\Repos\IterationStatmentsExercise\IterationStatmentsExercise\obj\Debug\net6.0\IterationStatmentsExercise.AssemblyInfoInputs.cache
+C:\Users\Pearl-Laptop\Desktop\Repos\IterationStatmentsExercise\IterationStatmentsExercise\obj\Debug\net6.0\IterationStatmentsExercise.AssemblyInfo.cs
+C:\Users\Pearl-Laptop\Desktop\Repos\IterationStatmentsExercise\IterationStatmentsExercise\obj\Debug\net6.0\IterationStatmentsExercise.csproj.CoreCompileInputs.cache
+C:\Users\Pearl-Laptop\Desktop\Repos\IterationStatmentsExercise\IterationStatmentsExercise\bin\Debug\net6.0\IterationStatmentsExercise.exe
+C:\Users\Pearl-Laptop\Desktop\Repos\IterationStatmentsExercise\IterationStatmentsExercise\bin\Debug\net6.0\IterationStatmentsExercise.deps.json
+C:\Users\Pearl-Laptop\Desktop\Repos\IterationStatmentsExercise\IterationStatmentsExercise\bin\Debug\net6.0\IterationStatmentsExercise.runtimeconfig.json
+C:\Users\Pearl-Laptop\Desktop\Repos\IterationStatmentsExercise\IterationStatmentsExercise\bin\Debug\net6.0\IterationStatmentsExercise.dll
+C:\Users\Pearl-Laptop\Desktop\Repos\IterationStatmentsExercise\IterationStatmentsExercise\bin\Debug\net6.0\IterationStatmentsExercise.pdb
+C:\Users\Pearl-Laptop\Desktop\Repos\IterationStatmentsExercise\IterationStatmentsExercise\obj\Debug\net6.0\IterationStatmentsExercise.dll
+C:\Users\Pearl-Laptop\Desktop\Repos\IterationStatmentsExercise\IterationStatmentsExercise\obj\Debug\net6.0\refint\IterationStatmentsExercise.dll
+C:\Users\Pearl-Laptop\Desktop\Repos\IterationStatmentsExercise\IterationStatmentsExercise\obj\Debug\net6.0\IterationStatmentsExercise.pdb
+C:\Users\Pearl-Laptop\Desktop\Repos\IterationStatmentsExercise\IterationStatmentsExercise\obj\Debug\net6.0\IterationStatmentsExercise.genruntimeconfig.cache
+C:\Users\Pearl-Laptop\Desktop\Repos\IterationStatmentsExercise\IterationStatmentsExercise\obj\Debug\net6.0\ref\IterationStatmentsExercise.dll
